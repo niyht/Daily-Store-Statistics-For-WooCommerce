@@ -1,10 +1,10 @@
 With this plugin, you can access the statistics of the people who enter your site daily, which I have listed below:
 
-Number of people visiting the site
-Number of people visiting the product page
-Number of products added to cart
-Number of people who saw the cart page
-Number of people who saw the payment page
+Number of people visiting the site<br>
+Number of people visiting the product page<br>
+Number of products added to cart<br>
+Number of people who saw the cart page<br>
+Number of people who saw the payment page<br>
 
 The product page part may not work very well if you have wp-rocket installed on your site and you are using the caching feature.
 
